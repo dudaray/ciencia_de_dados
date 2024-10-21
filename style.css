@@ -57,6 +57,11 @@ graficos-container_texto {
     border: var(--secondary-color) solid 2px;
 }
 
+span {
+    font-weight: bold;
+    color: var(--secondary-color);
+   }
+
 footer {
     display: flex;
     align-items: center;
@@ -67,9 +72,3 @@ footer {
     height: 3rem;
     margin-top: 2rem;
 }
-
-
-span {
-    font-weight: bold;
-    color: var(--secondary-color);
-   }
