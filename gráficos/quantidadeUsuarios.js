@@ -4,6 +4,7 @@ async function quantidadeUsuarios() {
   const dados = await res.json()
   const nomeDasRedes = Object.keys(dados)
   const quantidadeUsuarios = Object.values(dados)
+  
   const data = [
       {
         x: nomeDasRedes,
