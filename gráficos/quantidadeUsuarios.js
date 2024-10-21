@@ -1,1 +1,1 @@
-const url = https://raw.githubusercontent.com/guilhermeonrails/api/main/numero-usuarios.json
+const url = "https://raw.githubusercontent.com/guilhermeonrails/api/main/numero-usuarios.json"
