@@ -8,7 +8,7 @@ async function quantidadeUsuarios() {
       {
         x: nomeDasRedes,
         y: quantidadeUsuarios,
-        type: 'bar'
+        type: 'bar',
       }
     ]
     
