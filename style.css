@@ -57,7 +57,7 @@ nav a:hover {
     border: var(--secondary-color) solid 2px;
   }
 
-  span {
+span {
     font-weight: bold;
     color: var(--secondary-color);
     }
