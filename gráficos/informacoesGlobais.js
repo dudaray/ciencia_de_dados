@@ -5,5 +5,3 @@ async function vizualizarInformacoesGlobais() {
     const dados = await res.json()
     console.log(dados);
 }
-
-vizualizarInformacoesGlobais()
